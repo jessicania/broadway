@@ -4,7 +4,8 @@ body {
 }
 
 .header {
-  background-image: url("../images/flatiron.png")
+  background: url("../images/flatiron.png")
+  background-size: cover;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
   color: white;
 }
 
-h6 {
+.header p {
   font-size: 18px;
   color: white;
 }
@@ -43,4 +44,8 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.link {
+  color: white;
 }
