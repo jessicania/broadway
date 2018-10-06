@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  background: url("../images/flatiron.png")
+  background: url("../images/flatiron.png");
   background-size: cover;
 }
 
